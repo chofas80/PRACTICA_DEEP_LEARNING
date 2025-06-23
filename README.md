@@ -6,7 +6,7 @@ Este repositorio contiene la implementación y los recursos de la práctica de D
 
 * **Visualización del Modelo:**
     * Imágenes de la arquitectura del modelo final (`engagement_model.onnx.png` y `model_graph_final.png`).
-    * **Modelo ONNX** (`engagement_model.onnx`) para una exploración interactiva en Netron.
+    * **Modelo ONNX** (`engagement_model.onnx`) para una exploración interactiva en Netron. Es demasiado pesado, se enviará por correo
         * **Instrucciones para visualizar en Netron:**
             1.  Visita la página oficial de Netron: [https://netron.app/](https://netron.app/)
             2.  Haz clic en el botón "Open Model..." y selecciona el archivo `engagement_model.onnx` desde tu equipo.
@@ -15,7 +15,7 @@ Este repositorio contiene la implementación y los recursos de la práctica de D
 * **Código Fuente:**
     * Notebook de Jupyter con todo el código: `Practica_Deep_Learning_Sofia_Gabian.ipynb`.
 * **Modelos Optimizados:**
-    * Los mejores modelos obtenidos a través de la optimización con Optuna.
+    * Los mejores modelos obtenidos a través de la optimización con Optuna. Son demasiado pesados, se enviará por correo
 
 ## Instrucciones para la Ejecución:
 
